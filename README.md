@@ -1,2 +1,1 @@
-# scalableMushroomProduction
-We aim to reduce the complexity and cost of growing high-yielding mushrooms.
+# Scalable mushroom production: cultivation using 'appropriate technology' methods for developing counties
