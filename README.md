@@ -2,7 +2,7 @@
 ## Summary
 _We use small-scale experimental investigations to determine the feasibility of mushroom cultivation using low-tech methods._
 
-We are currently formulating our game plan. To read what we're deliberating, head over to our discussion space.
+We are currently formulating our game plan. To read what we're deliberating, head over to our [discussion space](https://www.researchgate.net/post/Mushroom_cultivation_can_we_reduce_water_needed_for_entire_process_while_also_providing_drinking_water_for_billions_of_people).
 
 >**We believe that research & development should be for all, not just the rich.**
 
