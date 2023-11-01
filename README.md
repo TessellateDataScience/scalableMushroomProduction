@@ -2,7 +2,7 @@
 ## Summary
 _We use small-scale experimental investigations to determine the feasibility of mushroom cultivation using low-tech methods._
 
-We assess this ...
+We are currently formulating our game plan. To read what we're deliberating, head over to our discussion space.
 
 >**We believe that research & development should be for all, not just the rich.**
 
