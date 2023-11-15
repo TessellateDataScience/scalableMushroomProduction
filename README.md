@@ -1,4 +1,4 @@
-# Scalable mushroom production: cultivation using 'appropriate technology' methods for developing counties
+# Scalable mushroom production: growing them using 'appropriate technology' methods (aimed at developing countries)
 ## Summary
 _We use small-scale experimental investigations to determine the feasibility of mushroom cultivation using low-tech methods._
 
