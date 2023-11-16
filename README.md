@@ -1,6 +1,6 @@
 # Scalable mushroom production: growing them using 'appropriate technology' methods (aimed at developing countries)
 ## Summary
-_We use small-scale experimental investigations to determine the feasibility of mushroom cultivation using low-tech methods._
+_We use small-scale experimental investigations to determine the feasibility of mushroom cultivation using methods that reduce the reliance on electricity._
 
 We are currently formulating our game plan. To read what we're deliberating, head over to our [discussion space](https://www.researchgate.net/post/Mushroom_cultivation_can_we_reduce_water_needed_for_entire_process_while_also_providing_drinking_water_for_billions_of_people).
 
