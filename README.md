@@ -6,6 +6,9 @@ We are currently formulating our game plan. To read what we're deliberating, hea
 
 >**We believe that research & development should be for all, not just the rich.**
 
+## Research funding
+This project will be funded by Mushroom Incubator, who will donate 50% of all income towards this research. Due to very unstable expected growth phase of the business and hence their exact income, this amount will not be given at a set frequency but instead we be given once financial sustainability can be achieved (e.g. no funding will be given in the first 3 months of the business operating).
+
 ## Progress summary
 We have successfully fruited some financially high-valued mushrooms under semi-controlled environmental conditions using lower-tech methods. You can read some introductory learning material over in our [knowledge space](https://github.com/TessellateDataScience/scalableMushroomProduction/wiki/Welcome). We're not the only ones doing something about this as the [United Nations is seeding innovation](https://innovation.wfp.org/knowledge) in this space.
 
