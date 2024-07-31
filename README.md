@@ -4,7 +4,8 @@ _We use experimental investigations to determine the feasibility of mushroom cul
 
 We are currently formulating our game plan. To read what we're deliberating, head over to our [discussion space](https://www.researchgate.net/post/Mushroom_cultivation_can_we_reduce_water_needed_for_entire_process_while_also_providing_drinking_water_for_billions_of_people).
 
->**We believe that research & development should be for all, not just the rich.**
+## Rationale
+>**We believe that research should be equity-based: beneficial outomes for all, not just the rich.** The dominant research funding schemes (within counties such as Australia & the USA) benefits primarily their own citizens. We believe this is unjust, as countries such as Africa are financially disadvantaged more compared to richer countries. Moreover, underlying the United Nations actions towards addressing large world problems such as erradicating hunger is their paradigm that everyone deserves the same amount of 'human rights'. But the significant gap between rich and poor people's rights still remain. We aim to help address this imbalance via aiming for a more bottom-up and scalable approach to ensuring adequate nutition. 
 
 ## Research funding
 This project will be funded by Mushroom Incubator, who will donate 50% of all income towards this research. Due to very unstable expected growth phase of the business and hence their exact income, this amount will not be given at a set frequency but instead we be given once financial sustainability can be achieved (e.g. no funding will be given in the first 3 months of the business operating).
